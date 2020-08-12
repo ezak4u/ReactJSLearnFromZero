@@ -4,7 +4,10 @@ import ReactDOM from 'react-dom';
 
 //ReactDOM.render(<App />, document.getElementById('app'));
 
+const name = 'Esakkimuthu';
+const element = <h1>Hello, {name}</h1>;
+
 ReactDOM.render(
-    <h1>Hello, world!</h1>,
+    element,
     document.getElementById('root')
   );

@@ -26,3 +26,7 @@ Step 4:
 
 Step 5 :
     - npm start
+
+Main Concepts
+1. [Hello world](https://github.com/ezak4u/ReactJSLearnFromZero/tree/ff71df572310a8f675d204579e46fe50672d589e)
+2. [Introducing JSX](https://github.com/ezak4u/ReactJSLearnFromZero/tree/)
