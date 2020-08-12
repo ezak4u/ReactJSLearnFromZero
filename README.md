@@ -19,4 +19,10 @@ Step 3 : Folder Files strcuture using type command from windows
     - type nul > main.js
     - type nul > webpack.config.js
     - type nul > .babelrc
+    - type nul > .gitignore
 Step 4: 
+     - Webpack package.json and bebelrc and git ignore setup update
+     - index.html and App.js and main.js initial setup
+
+Step 5 :
+    - npm start
